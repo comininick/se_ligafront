@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	            <title>vahcakes</title>
     <link rel="stylesheet" href="./css/style.css">
     <title>	Vahcakes</title>
 </head>
@@ -10,11 +11,10 @@
     <header>
         <div class="logo">
         </div>
-        <ul>
-          <li><a href=".">HOME</a></li>
-          <li><a href="#">BOLOS</a></li>
-          <li><a href="#">DOCINHOS</a></li>
-          <li><a href="#">HISTORIA DO SITE</a></li>
+        <ul>          
+        <li><a href="#">Nossos bolos</a></li>
+          <li><a href="#">Nossos doces</a></li>
+          <li><a href="#">Nossa historia</a></li>
         </ul>
         </div>
     </header>
